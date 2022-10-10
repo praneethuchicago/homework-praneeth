@@ -1,2 +1,3 @@
-# define test test2
-# define World Class
+#define test test2
+#define World Class
+#include "preprocessor2.txt"

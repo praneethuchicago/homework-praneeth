@@ -1,0 +1,5 @@
+#ifdef printf
+  #define printf puts
+#else
+ #define printf puts 
+#endif
